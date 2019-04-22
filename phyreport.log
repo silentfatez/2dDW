@@ -1,0 +1,239 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.18)  18 APR 2019 17:13
+entering extended mode
+**./phyreport.tex
+(phyreport.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\silentfatez\AppData\Roaming\MiKTeX\2.9\tex/latex/appendix\appendix.st
+y
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count88
+\c@@ppsavesec=\count89
+\c@@ppsaveapp=\count90
+) (phyreport.aux)
+\openout1 = `phyreport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+(C:\Users\silentfatez\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen106
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+ [1
+
+{C:/Users/silentfatez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 29.
+ [2] [3]
+Overfull \hbox (4.05608pt too wide) in paragraph at lines 89--90
+[]\OT1/cmr/m/n/10 Hence we de-cided to cal-cu-late the tem-per-a-ture of wa-ter
+ us-ing an-other method.
+ []
+
+[4]
+<./images/3.jpg, id=29, 992.70876pt x 1284.8pt>
+File: ./images/3.jpg Graphic file (type jpg)
+<use ./images/3.jpg>
+Package pdftex.def Info: ./images/3.jpg  used on input line 99.
+(pdftex.def)             Requested size: 297.81493pt x 385.44298pt.
+ [5 <./images/3.jpg>]
+<./images/9.jpg, id=33, 452.18938pt x 642.4pt>
+File: ./images/9.jpg Graphic file (type jpg)
+<use ./images/9.jpg>
+Package pdftex.def Info: ./images/9.jpg  used on input line 106.
+(pdftex.def)             Requested size: 406.96667pt x 578.15466pt.
+
+Overfull \hbox (61.96667pt too wide) in paragraph at lines 106--107
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 48.04355pt on input line 107.
+
+<./images/2.jpg, id=34, 940.51375pt x 1284.8pt>
+File: ./images/2.jpg Graphic file (type jpg)
+<use ./images/2.jpg>
+Package pdftex.def Info: ./images/2.jpg  used on input line 110.
+(pdftex.def)             Requested size: 329.18474pt x 449.68674pt.
+[6] [7 <./images/9.jpg>] [8 <./images/2.jpg>]
+<./images/4.jpg, id=45, 215.80624pt x 147.55125pt>
+File: ./images/4.jpg Graphic file (type jpg)
+<use ./images/4.jpg>
+Package pdftex.def Info: ./images/4.jpg  used on input line 117.
+(pdftex.def)             Requested size: 215.80571pt x 147.55087pt.
+<./images/5.jpg, id=46, 317.68687pt x 202.7575pt>
+File: ./images/5.jpg Graphic file (type jpg)
+<use ./images/5.jpg>
+Package pdftex.def Info: ./images/5.jpg  used on input line 119.
+(pdftex.def)             Requested size: 317.68608pt x 202.757pt.
+ [9 <./images/4.jpg> <./images/5.jpg>]
+<./images/6.jpg, id=50, 489.62926pt x 304.7385pt>
+File: ./images/6.jpg Graphic file (type jpg)
+<use ./images/6.jpg>
+Package pdftex.def Info: ./images/6.jpg  used on input line 125.
+(pdftex.def)             Requested size: 244.81403pt x 152.36887pt.
+ [10 <./images/6.jpg>]
+<./images/7.jpg, id=54, 159.59625pt x 328.22626pt>
+File: ./images/7.jpg Graphic file (type jpg)
+<use ./images/7.jpg>
+Package pdftex.def Info: ./images/7.jpg  used on input line 131.
+(pdftex.def)             Requested size: 127.67715pt x 262.58136pt.
+<./images/8.jpg, id=55, 161.403pt x 327.624pt>
+File: ./images/8.jpg Graphic file (type jpg)
+<use ./images/8.jpg>
+Package pdftex.def Info: ./images/8.jpg  used on input line 133.
+(pdftex.def)             Requested size: 129.12257pt x 262.09953pt.
+
+
+LaTeX Warning: Float too large for page by 43.45866pt on input line 135.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+No file phyreport.bbl.
+[11] [12 <./images/7.jpg> <./images/8.jpg>] (phyreport.aux) ) 
+Here is how much of TeX's memory you used:
+ 1579 strings out of 492945
+ 22617 string characters out of 3135495
+ 88266 words of memory out of 3000000
+ 5472 multiletter control sequences out of 15000+200000
+ 8494 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,25p,508b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y7.pfb>
+Output written on phyreport.pdf (12 pages, 899726 bytes).
+PDF statistics:
+ 109 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
